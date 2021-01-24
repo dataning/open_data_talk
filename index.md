@@ -103,9 +103,9 @@ Using open data and dissertation to do something meaningful
 
 ---
 
-### What I have learned?
+### What I have learned
 
-- [x] Improve gated data: context, linkage, measurement
+- [x] Improve the thinking on the context, linkage, measurement of the gated data
 
 - [x] Project continuity
 
