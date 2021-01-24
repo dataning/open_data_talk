@@ -37,7 +37,7 @@ Senior Research Fellow [@ActEarly]()
 - [ ] GDP
 - [x] Local COVID-19
 
-_Which one is relevant for Bradford, Leeds, or York?_
+_Which one is more relevant for Bradford, Leeds, or York?_
 
 ---
 
@@ -110,7 +110,7 @@ Bradford
 
 - [x] "Lego" continuity
 
-- [x] Feed to training / teaching again
+- [x] Feed into training / teaching again
 
 ---
 
