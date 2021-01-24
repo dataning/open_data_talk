@@ -29,7 +29,7 @@ Senior Research Fellow [@ActEarly]()
 
 <!-- .slide: data-transition="slide" data-background="#C41230" data-background-transition="zoom" -->
 
-## Open Data (training)
+## Open Data in training
 
 - [ ] Flower (iris), Penguin
 - [ ] New York taxi
@@ -59,28 +59,27 @@ Using open data and dissertation to do something meaningful
 
 <!-- .slide: data-transition="slide" data-background="#00000" data-background-transition="zoom" -->
 
-### What's the benefit of using open data in training/teaching?
+### What I have learned
 
 - [x] Relevance and attachment
 
 - [x] Transferrable skill / Good grades
 
-- [x] "Lego" continuity
+- [x] Project continuity
 
 - [x] More people working on "service improvement"
 
-<br> 
-<br>
-
-_Data Hero 2.0 is coming_
+- [x] Data Hero 2.0 is coming
 
 ---
 
 <!-- .slide: data-transition="slide" data-background="#C41230" data-background-transition="zoom" -->
 
-## School admission project
+## Open Data in research
 
-Bradford
+<br>
+
+### [School admission in Bradford]()
 
 ---
 
@@ -104,28 +103,18 @@ Bradford
 
 ---
 
-### What's the benefit of using open data in research?
+### What I have learned?
 
 - [x] Improve gated data: context, linkage, measurement
 
-- [x] "Lego" continuity
+- [x] Project continuity
 
-- [x] Feed into training / teaching again
-
----
-
-<!-- .slide: data-transition="slide" data-background="#0000" data-background-transition="zoom" -->
-
-<img data-src="preview.png" height="850" width="650" style="background:none; border:none; box-shadow:none;" />
+- [x] Feed into the next cycle of training
 
 ---
 
 <!-- .slide: style="text-align: left;" -->
 
-## Thank you
-
-<br>
-
-#### Holme Wood Data Science Repository
+## Holme Wood Data Science Repository
 
 [holmewood.netlify.app](holmewood.netlify.app)
