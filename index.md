@@ -9,7 +9,7 @@ title: "Open Data journey"
 
 # Open Data
 
-### [journey since 2016]()
+### [journey]()
 
 <br>
 
@@ -109,12 +109,12 @@ Using open data and dissertation to do something meaningful
 
 - [x] Project continuity
 
-- [x] Feed into the next cycle of training
+- [x] Feed into the next cycle of training and research
 
 ---
 
 <!-- .slide: style="text-align: left;" -->
 
-## Holme Wood Data Science Repository
+## Holme Wood Data Repository
 
 [holmewood.netlify.app](holmewood.netlify.app)
